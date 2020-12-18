@@ -23,7 +23,7 @@ Since I have a german game, you may have to change your screenshots accordingly:
 Instruction:
 
 1. Get the item from the mission
-2. Go to a dropbox and stand in front of it
+2. Go to a dropbox and stand in front of it (make sure the box have a balance of full 20000)
 3. Tab out and launch the script
 4. Go back in the game within 3 seconds 
 5. Get your millions :)
