@@ -43,7 +43,7 @@ def open_shop():
 def close_shop():
     print('close shop')
     def still_in_store():
-        pos = imagesearch("images\\instore.png")
+        pos = imagesearch("images\\in_store.png")
         if pos[0] != -1:
             return True
         return False
@@ -83,7 +83,7 @@ def automat_empty():
 def restock_automat():
     print('restock')
     open_menu()
-    find_image_and_click("images\\warten.png")
+    find_image_and_click("images\\wait.png")
     reset_time()
 
 def reset_time():

@@ -14,6 +14,12 @@ I tested it on my FullHD Screen with a resolution of 1920x1080.
 Maybe you have to change your resolution.
 I cannot guarantee that it will work flawlessly on your system.
 
+For the mouse navigation the script makes a screenshot in some places.
+Since I have a german game, you may have to change your screenshots accordingly:
+- empty.png # if the store is empty and the balance is 25
+- in_store.png # equal to 'sort'
+- wait.png # wait a specific time, in the i-menu
+
 Instruction:
 
 1. Get the item from the mission
